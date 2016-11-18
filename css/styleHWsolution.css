@@ -155,7 +155,8 @@ h3,
 /*portfolio page*/
 
 .work {
-	width: 274px;
+	width: 249px;
+	height: 232px;
 	overflow: auto;
 	position: relative;
 	float: left;
@@ -166,6 +167,7 @@ h3,
 }
 .work img {
 	width: 100%;
+	height: 100%;
 	border: 0 none;
 	opacity: .8;
 }
@@ -312,3 +314,4 @@ input[type=submit] {
 	}
 
 }
+
